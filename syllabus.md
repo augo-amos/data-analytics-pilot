@@ -1,6 +1,6 @@
 # Syllabus: Foundations of Data Analytics (Pilot Program)
 
-**Academy:** [Your Academy Name]  
+**Academy:** Daystar Analytics Lab  
 **Duration:** 4 weeks  
 **Weekly commitment:** 5–6 hours  
 **Format:** Live online + recorded + hands-on projects  
