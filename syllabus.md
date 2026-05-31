@@ -1,4 +1,3 @@
-```markdown
 # Syllabus: Foundations of Data Analytics (Pilot Program)
 
 **Academy:** [Your Academy Name]  
@@ -314,4 +313,3 @@ You will receive the exact dataset and 3 business questions on Day 1 of Week 4.
 4. **Link from README.md:**
    ```markdown
    **[Full Syllabus](syllabus.md)**
-   ```
