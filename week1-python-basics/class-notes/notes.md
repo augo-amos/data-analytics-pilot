@@ -2,7 +2,7 @@
 
 **Course:** Foundations of Data Analytics (Pilot)  
 **Week:** 1 of 4  
-**Instructor:** [Your Name]  
+**Instructor:** Amos Augo  
 **Format:** Read alongside Tuesday lecture + Thursday lab
 
 ---
