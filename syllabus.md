@@ -3,7 +3,7 @@
 **Academy:** Daystar Analytics Lab  
 **Duration:** 4 weeks  
 **Weekly commitment:** 5–6 hours  
-**Format:** Live online + recorded + hands-on projects  
+**Format:** Live online + hands-on projects  
 **Tools:** Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook, Tableau Public, GitHub
 
 ---
@@ -49,7 +49,7 @@ By the end of Week 4, you will be able to:
 - Join class Slack/Discord
 - Complete "Welcome Survey"
 
-📁 **Repo folder:** `resources/setup_guide.md`
+**Repo folder:** `resources/setup_guide.md`
 
 ---
 
@@ -70,9 +70,9 @@ By the end of Week 4, you will be able to:
 - Write a script that reads a CSV and computes total sales
 - Debug common syntax errors
 
-📁 **Repo folder:** `week1-python-basics/`  
-📝 **Exercises:** 2 notebooks  
-📊 **Dataset:** `sample_sales.csv` (50 rows)
+**Repo folder:** `week1-python-basics/`  
+**Exercises:** 2 notebooks  
+**Dataset:** `sample_sales.csv` (50 rows)
 
 ---
 
@@ -93,9 +93,9 @@ By the end of Week 4, you will be able to:
 - Clean a messy orders file (fix dates, fill missing values)
 - Find total sales by region and product category
 
-📁 **Repo folder:** `week2-pandas/`  
-📝 **Exercises:** 2 notebooks  
-📊 **Datasets:** `messy_orders.csv`, `customers.csv`
+**Repo folder:** `week2-pandas/`  
+**Exercises:** 2 notebooks  
+**Datasets:** `messy_orders.csv`, `customers.csv`
 
 ---
 
@@ -125,9 +125,9 @@ By the end of Week 4, you will be able to:
 - Create 3 charts in Python from a single dataset
 - Build a 2-page interactive dashboard in Tableau
 
-📁 **Repo folder:** `week3-visualization-tableau/`  
-📝 **Exercises:** 2 Python notebooks + 1 Tableau guide  
-📊 **Dataset:** `superstore_sample.csv`
+**Repo folder:** `week3-visualization-tableau/`  
+**Exercises:** 2 Python notebooks + 1 Tableau guide  
+**Dataset:** `superstore_sample.csv`
 
 ---
 
@@ -151,9 +151,9 @@ You are a junior analyst at an e-commerce company. You receive 5,000 rows of onl
 - Tableau Public dashboard link
 - Loom video link (unlisted)
 
-📁 **Repo folder:** `week4-capstone/`  
-📝 **Files:** `project_instructions.md`, `rubric.md`, `submission_template.ipynb`  
-📊 **Dataset:** `online_orders.csv` (5,000 rows)
+**Repo folder:** `week4-capstone/`  
+**Files:** `project_instructions.md`, `rubric.md`, `submission_template.ipynb`  
+**Dataset:** `online_orders.csv` (5,000 rows)
 
 ---
 
@@ -286,24 +286,3 @@ You will receive the exact dataset and 3 business questions on Day 1 of Week 4.
 
 *Last updated: 06/01/2026*  
 *Instructor reserves the right to adjust schedule with 48 hours notice.*
-
----
-
-## How to Use This Syllabus File
-
-1. **Replace placeholders:**
-   - `[Your Academy Name]` → your actual academy name
-   - `[Current Date]` → today's date
-   - Time zone (change from ET to your local time if needed)
-   - Your email address
-
-2. **Optional additions:**
-   - Add a **QR code** linking to the syllabus (for printed handouts)
-   - Insert a **table of contents** at the top (GitHub auto-generates one if you use `[TOC]`)
-   - Add **headshots/bios** of instructors
-
-3. **Save as:** `syllabus.md` in the **root folder** of your repo
-
-4. **Link from README.md:**
-   ```markdown
-   **[Full Syllabus](syllabus.md)**
