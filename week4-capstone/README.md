@@ -499,7 +499,6 @@ weekly_profit.rolling(window=2).mean().plot()
 **Estimated completion time:** 6-8 hours total this week
 
 **Worth it?** Yes. This is what goes on your resume.
-```
 
 ---
 
@@ -529,4 +528,4 @@ To make Week 4 complete, you'll also need:
 | `submission_template/yourname_capstone.ipynb` | Not generated yet | Request this (empty scaffold notebook) |
 | `resources/capstone_tips.md` | Not generated yet | Request this (optional) |
 | `capstone_kickoff_slides.pdf` | You create | Use Canva/Google Slides |
-```
+
