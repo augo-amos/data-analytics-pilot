@@ -525,20 +525,6 @@ git push origin main
 
 ---
 
-## What Makes This Week 1 README Better Than the Previous Version
-
-| Improvement | Why It Matters |
-|-------------|----------------|
-| **Clearer learning objectives** | Students know exactly what "done" looks like |
-| **"Why Python first" justification** | Reduces anxiety about not starting with Excel/SQL |
-| **Detailed schedule with timing** | Students can plan their week |
-| **Reference card (always open)** | Reduces "I forgot the syntax" pauses |
-| **Common mistakes table** | Anticipates errors before they happen |
-| **Preview of Week 2 connection** | Motivates students to push through difficulty |
-| **Instructor note** | Builds psychological safety |
-
----
-
 ## Supporting Files You Still Need for Week 1
 
 To make Week 1 complete, you'll also need:
